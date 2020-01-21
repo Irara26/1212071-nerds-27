@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Ирина Каркозова](https://up.htmlacademy.ru/htmlcss/27/user/1212071).
-* Наставник: `Неизвестно`.
+* Наставник: [Ирина Малиновская] (https://htmlacademy.ru/profile/irina-malinovskaya).
 
 ---
 
